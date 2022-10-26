@@ -1,0 +1,5 @@
+pydantic
+asyncio
+pynput
+ujson
+aiounittest
